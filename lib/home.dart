@@ -27,7 +27,7 @@ class Mainpage extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          "Abed alrahman",
+                          "Heba",
                           style: TextStyle(
                               color: Color(0xff13442E),
                               fontSize: 18,
